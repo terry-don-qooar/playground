@@ -1,2 +1,3 @@
 secrets.txt filter=git-crypt diff=git-crypt
 .gitattributes !filter !diff
+hi/secret.txt filter=git-crypt diff=git-crypt
